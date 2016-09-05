@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a037c3c0-34ba-405c-ac56-27da8639b0c1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yaml" afterPath="$PROJECT_DIR$/.travis.yaml" />
-    </list>
+    <list default="true" id="a037c3c0-34ba-405c-ac56-27da8639b0c1" name="Default" comment="" />
     <ignored path="serverCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
