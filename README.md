@@ -6,6 +6,6 @@ https://goo.gl/photos/DzGQDtLWrke85AsE7
 The moment, 25 seconds in, when it jumps about a minute forward is when a new estimate arrived.
 
 Notes:
-1) In retrospect, using pre_away would have been a lot better than pre_dt as it's in seconds for determing the time to bus rather than epoch time for departure time of the bus.
+1) In retrospect, using pre_away would have been a lot better than pre_dt as it's in seconds for determing the time to bus rather than epoch time for departure time of the bus. I went this route in the java code and it was much easier.
 2) I wonder how difficult/impossible it would be to skip the server and just parse the mbta data from the chip itself, or if that's not possible at least send the epoch time directly to the chip rather than an ETA. 
 3) Would be nice if an app was used to set the bus stop, rather than hardcoding it.
