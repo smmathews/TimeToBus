@@ -9,4 +9,4 @@ matrix:
       before_script: cd ServerCode/csharp
       script:
         - dotnet restore
-          dotnet build
+        - dotnet build
